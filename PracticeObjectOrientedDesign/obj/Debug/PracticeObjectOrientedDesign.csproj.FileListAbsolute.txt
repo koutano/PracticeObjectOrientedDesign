@@ -1,0 +1,7 @@
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0614 git\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.exe.config
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0614 git\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.exe
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0614 git\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\bin\Debug\PracticeObjectOrientedDesign.pdb
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0614 git\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.csproj.AssemblyReference.cache
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0614 git\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.csproj.CoreCompileInputs.cache
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0614 git\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.exe
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0614 git\PracticeObjectOrientedDesign\PracticeObjectOrientedDesign\obj\Debug\PracticeObjectOrientedDesign.pdb
